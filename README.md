@@ -1,5 +1,5 @@
-## Olá Caro visitante! seja muito bem vindo ao meu perfil no github 😁 
-## Fique a vontade para navegar entre os meus repositórios e se gostar, pode fazer aquele forking sem compromisso 😎
+## Olá! me chamo Eduardo Dahmer, sou desenvolvedor de software com foco principal na stack web PHP / Laravel / VueJS
+## Navegue a vontade entre os meus repositórios, aonde você vai encontrar muita coisa legal! 
  <div>
   <a href="https://github.com/devdahmer99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdahmer99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
