@@ -1,32 +1,65 @@
-## Olá! me chamo Eduardo Dahmer, sou desenvolvedor de software com foco principal na stack web PHP / Laravel / VueJS
-## Navegue a vontade entre os meus repositórios, aonde você vai encontrar muita coisa legal! 
- <div>
-  <a href="https://github.com/devdahmer99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdahmer99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdahmer99&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edu-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Edu-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
- <img align="center" alt="Edu-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg">
-  <img align="center" alt="Edu-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Edu-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
- <img align="center" alt="Edu-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Edu-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Edu-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Edu-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Edu-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Edu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+### Hi there 👋
+
+### Me chamo Eduardo Dahmer Correa.
+
+Seja Bem Vindo aos meus repositórios.
+<br/>
+- 🌱 Atualmente trabalho exclusivamente com PHP, porém tenho bastante experiência com Laravel, Transact-SQL dentre outras linguagens.
+- 🎓 Estudo programação através da Alura Cursos Online de Tecnologia e pela Faculade de ADS
+
+ ## **Linguagens e Ferramentas:** 
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br>
+<br>
+ 
+ ## **Minhas Redes Sociais**
+<p align="left">
+  <a href="devdahmer99@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+
+  <a href="https://www.linkedin.com/in/edudahmer/" alt="Linkedin" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
   
-  ##
+  <a href="https://wa.me/5551989275074" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/eduardo.dahmer.73/" alt="Facebook" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/dahmer.sh/" alt="Instagram" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  </p>
+ <br>
  
-<div> 
- <a href = "mailto:eduardodahmer99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5551989275074&text=Ola"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/edudahmer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/dahmer.sh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+ ## **Estatísticas do Git**
+
+<br/>
+<p align="left">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devdahmer99&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devdahmer99&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+![Eduardo Dahmer ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=devdahmer99&custom_title=Eduardo%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+<a href="https://github.com/devdahmer99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdahmer99&theme=gruvbox&hide_langs_below=1" alt="EDUARDO DAHMER github stats"/>
+</a>
+
   ![Snake animation](https://github.com/devdahmer99/devdahmer99/blob/output/github-contribution-grid-snake.svg)
  
 </div>
