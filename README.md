@@ -6,7 +6,7 @@
 
 Seja Bem Vindo aos meus repositórios.
 <br/>
-- 🌱 Atualmente trabalho exclusivamente com PHP, porém tenho bastante experiência com Laravel, Transact-SQL dentre outras linguagens.
+- 🌱 Atualmente trabalho exclusivamente com PHP, porém tenho bastante experiência com Laravel, Transact-SQL, PGSQL dentre outras linguagens.
 - 🎓 Estudo programação através da Alura Cursos Online de Tecnologia e pela Faculade de ADS
 
  ## **Linguagens e Ferramentas:** 
