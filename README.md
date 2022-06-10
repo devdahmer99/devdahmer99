@@ -4,12 +4,12 @@
 
 ### Me chamo Eduardo Dahmer Correa.
 
-Seja Bem Vindo aos meus repositórios.
+Seja Bem Vindo ao "portifólio"
 <br/>
 - 🌱 Atualmente trabalho exclusivamente com PHP, porém tenho bastante experiência com Laravel, Transact-SQL, PLSQL dentre outras linguagens.
-- 🎓 Estudo programação através da Alura Cursos Online de Tecnologia e pela Faculade de ADS
+- 🎓 Sou graduando em Analise e Desenvolvimento pela Universidade Ulbra
 
- ## **Linguagens e Ferramentas:** 
+ ## **Linguagens que domino:** 
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07/topics/postgresql/postgresql.png"></code>
