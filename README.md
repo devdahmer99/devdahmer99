@@ -44,21 +44,20 @@ Seja Bem Vindo aos meus repositórios.
   </p>
  <br>
  
- ## **Estatísticas do Git**
+ ## **Estatísticas de uso do GitHub**
 
 <br/>
-<p align="left">
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devdahmer99&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devdahmer99&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
+
+<div>
+<a href="https://github.com/devdahmer99">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdahmer99&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdahmer99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <br>
 
 ![Eduardo Dahmer ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=devdahmer99&custom_title=Eduardo%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
-<a href="https://github.com/devdahmer99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdahmer99&theme=gruvbox&hide_langs_below=1" alt="EDUARDO DAHMER github stats"/>
-</a>
 
   ![Snake animation](https://github.com/devdahmer99/devdahmer99/blob/output/github-contribution-grid-snake.svg)
  
