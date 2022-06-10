@@ -4,7 +4,7 @@
 
 ### Me chamo Eduardo Dahmer Correa.
 
-Seja Bem Vindo ao "portifólio"
+Seja Bem Vindo ao meu "portifólio"
 <br/>
 - 🌱 Atualmente trabalho exclusivamente com PHP, porém tenho bastante experiência com Laravel, Transact-SQL, PLSQL dentre outras linguagens.
 - 🎓 Sou graduando em Analise e Desenvolvimento pela Universidade Ulbra
