@@ -5,7 +5,7 @@
 ### Me chamo Eduardo Dahmer Correa.
 
 - 🌱 Atualmente trabalho exclusivamente com PHP, utilizando laravel e vuejs
-- 🎓 Sou graduando em Analise e Desenvolvimento pela Universidade Ulbra
+- 🎓 Sou graduando em Analise e Desenvolvimento pela Uniasselvi
 
 
 <br/>
