@@ -57,9 +57,7 @@
 
 <br>
 
-![Eduardo Dahmer ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=devdahmer99&custom_title=Eduardo%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
-
-
+## **Gráfico de Commits**
   ![Snake animation](https://github.com/devdahmer99/devdahmer99/blob/output/github-contribution-grid-snake.svg)
  
 </div>
