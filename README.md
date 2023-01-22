@@ -4,7 +4,7 @@
 
 ### Me chamo Eduardo Dahmer Correa.
 
-- 🌱 Atualmente trabalho exclusivamente com PHP, utilizando laravel e vuejs
+- 🌱 Atuo no mercado de software legado, utilizando php puro no back end e javascrip no front end. Onde também atuo com Laravel, SQL Server e VueJS
 - 🎓 Sou graduando em Analise e Desenvolvimento pela Uniasselvi
 
 
