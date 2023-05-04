@@ -2,10 +2,10 @@
 
 ### Opa, Seja Bem Vindo 👋
 
-### Me chamo Eduardo Dahmer Correa.
+### Me chamo Eduardo Dahmer.
 
 - 🌱 Atuo no mercado de software legado, utilizando php puro no back end e javascrip no front end. Onde também atuo com Laravel, SQL Server, MySQL, JQuery, Bootstrap e VueJS
-- 🎓 Sou graduando em Analise e Desenvolvimento pela Uniasselvi
+- 🎓 Sou acadêmico em Analise e Desenvolvimento pela Uniasselvi
 
 
 <br/>
