@@ -2,17 +2,16 @@
 
 ### Opa, Seja Bem Vindo 👋
 
-### Me chamo Eduardo Dahmer.
+### Me chamo Eduardo Dahmer Correa.
 
 - 🌱 Atuo no mercado de software legado, utilizando php puro no back end e javascript no front end. Onde também atuo com Laravel, SQL Server, MySQL, JQuery, Bootstrap e VueJS
-- 🎓 Sou acadêmico em Cibersegurança e DefesaCibernética.
+- 🎓 Sou acadêmico em Cibersegurança e Defesa Cibernética.
 
 
 <br/>
 
 ### Tecnologias que eu trabalho:
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></code>
