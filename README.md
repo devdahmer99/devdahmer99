@@ -53,7 +53,6 @@
 
 <br>
 
-## **Gráfico de Commits**
-  ![Snake animation](https://github.com/devdahmer99/devdahmer99/blob/output/github-contribution-grid-snake.svg)
- 
+##**Linguagens mais usadas**
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devdahmer99)](https://github.com/anuraghazra/github-readme-stats)
 </div>
