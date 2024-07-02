@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é te ajudar a ter sucesso, com soluções rapidas e escalaveis.
+✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é te ajudar a ter sucesso, com soluções rapidas e escalaveis.                                  
    Atuo a mais de 3 anos com manutenção em software de alta complexidade do ramo educacional, realizando manutenções em features core do sistema e também 
    desenvolvendo novas features inovadoras do sistema.
    Possuo uma experiência solida e consolidada no mercado de softwares e posso te ajudar a desenvolver aquela ideia guardada em uma gaveta ou que você achou
