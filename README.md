@@ -1,32 +1,50 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
-### Olá, Seja Bem Vindo 👋
+# 🚀 Olá, eu sou Eduardo Dahmer Correa - Software Developer 
 
-### Me chamo Eduardo Dahmer Correa.
+## Sobre mim
 
-- Atuo no mercado de software legado, utilizando php puro no back end e javascript no front end. Onde também atuo com Laravel, SQL Server, MySQL, JQuery, Bootstrap e VueJS
-- Tenho conhecimentos em C# e .Net além de Java 
+✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é te ajudar a ter sucesso, com soluções rapidas e escalaveis.
+   Atuo a mais de 3 anos com manutenção em software de alta complexidade do ramo educacional, realizando manutenções em features core do sistema e também 
+   desenvolvendo novas features inovadoras do sistema.
+   Possuo uma experiência solida e consolidada no mercado de softwares e posso te ajudar a desenvolver aquela ideia guardada em uma gaveta ou que você achou
+   ser desnecessária ou impossível... eu posso te ajudar!
+✨
 
+## Habilidades Tecnológicas
 
-<br/>
+💻 Aqui estão algumas das tecnologias que eu domino:
 
-### Tecnologias que eu trabalho:
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<br>
-<br>
- 
- ## **Minhas Redes Sociais**
-  <a href="https://www.linkedin.com/in/edudahmer/" alt="Linkedin" target="blank">
+-  Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=cs,php,js)](https://skillicons.dev)
+- Frameworks e Bibliotecas:
+
+    [![My Skills](https://skillicons.dev/icons?i=dotnet,laravel,vue)](https://skillicons.dev)
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,visualstudio,phpstorm)](https://skillicons.dev)
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css,js)](https://skillicons.dev) 
+## Projetos Criativos
+
+🎨 Aqui está um dos meus projetos mais criativos e úteis: 
+
+1. [Automação Linux](https://github.com/devdahmer99/automacao-linux): Automação para instalação de softwares pós instalação do Sistema Operacional.
+
+## Vamos Criar Algo Incrível! 💫
+
+💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+
+## Vamos nos Conectar!
+
+<a href="https://www.linkedin.com/in/edudahmer/" alt="Linkedin" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   
@@ -43,16 +61,5 @@
   </a>
   </p>
  <br>
- 
- ## **Estatísticas de uso do GitHub**
 
-<br/>
-
-<div>
-<a href="https://github.com/devdahmer99">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdahmer99&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br>
-
-</div>
+![devdahmer99 GitHub stats](https://github-readme-stats.vercel.app/api?username=devdahmer99\&rank_icon=percentile)
