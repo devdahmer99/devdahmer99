@@ -13,7 +13,7 @@
    ser desnecessária ou impossível... eu posso te ajudar!
 ✨
 
-## Habilidades Tecnológicas
+## Minhas Habilidades 
 
 💻 Aqui estão algumas das tecnologias que eu domino:
 
