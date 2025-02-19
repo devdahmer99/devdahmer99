@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Software Developer">
 </div>
 
-# 🚀 Olá, eu sou Eduardo Dahmer - Full Stack Developer
+# 🚀 Olá, me chamo Eduardo Dahmer Correa - Full Stack Developer
 
 ## Sobre mim
 
@@ -13,7 +13,7 @@
    ser desnecessária ou impossível... eu posso te ajudar!
 ✨
 
-## Minhas Habilidades 
+## Minhas Habilidades:
 
 💻 Aqui estão algumas das tecnologias que eu domino:
 
@@ -41,6 +41,7 @@
 🎨 Aqui está um dos meus projetos mais criativos e úteis: 
 
 1. [Automação Linux](https://github.com/devdahmer99/automacao-linux): Automação para instalação de softwares pós instalação do Sistema Operacional.
+2. [DotNet Scaffold - Template de projeto usando arquitetura limpa, useCases, repository pattern](https://github.com/devdahmer99/dotNetDDDScaffold): Automação para criação de projetos utilizando .net e o padrão ddd.
 
 ## Vamos Criar Algo Incrível! 💫
 
@@ -51,10 +52,6 @@
 <a href="https://www.linkedin.com/in/edudahmer/" alt="Linkedin" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  
-  <a href="https://wa.me/5551989275074" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
 
   <a href="https://www.facebook.com/eduardo.dahmer.73/" alt="Facebook" target="blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
