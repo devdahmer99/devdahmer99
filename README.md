@@ -19,10 +19,10 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=cs,php,js)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=cs,php,js,ts)](https://skillicons.dev)
 - Frameworks FrontEnd:
 
-    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind)](https://skillicons.dev)
 
 - Frameworks BackEnd:
   
@@ -30,12 +30,12 @@
 - Banco de Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+- IDEs: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,visualstudio,phpstorm)](https://skillicons.dev)
-- Desenvolvimento:
+    [![My Skills](https://skillicons.dev/icons?i=rider,eclipse,visualstudio,phpstorm)](https://skillicons.dev)
+- Sistemas operacionais:
 
-    [![My Skills](https://skillicons.dev/icons?i=cs,php,html,css,js)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev) 
 ## Projetos Criativos
 
 🎨 Aqui está um dos meus projetos mais criativos e úteis: 
