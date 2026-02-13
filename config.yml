@@ -1,0 +1,84 @@
+# Galaxy Profile README Configuration
+# Edite com seus dados reais onde estiver marcado
+
+# SEU USUÁRIO REAL DO GITHUB (Obrigatório)
+username: devdahmer99
+
+# Informações do Perfil
+profile:
+  name: "Dahmer"
+  tagline: "Full Stack Dev & Offensive Security Specialist"
+  company: "DahmerLabs"
+  location: "Brazil"
+  bio: |
+    Security-minded developer with 5+ years in PHP.
+    Transitioning from building systems to breaking them.
+    Focus on Red Team operations, Pentesting, and secure coding.
+  philosophy: '"Defense requires understanding the Offense."'
+
+# Redes Sociais
+social:
+  email: "eduardodahmer99@outlook.com" 
+  linkedin: "https://www.linkedin.com/in/edudahmer/"
+  website: "https://dahmerlabs.com.br"
+
+# Braços da Galáxia (Seus 3 pilares)
+galaxy_arms:
+  - name: "Development"
+    color: "synapse_cyan"
+    items:
+      - "PHP / Laravel"
+      - "Go (Golang)"
+      - "SaaS Architecture"
+  - name: "Offensive Sec"
+    color: "axon_amber" # Cor mais quente pra remeter a Red Team
+    items:
+      - "Pentesting"
+      - "Red Team"
+      - "Python Scripting"
+  - name: "Infrastructure"
+    color: "dendrite_violet"
+    items:
+      - "Docker"
+      - "Linux Hardening"
+      - "SQL Optimization"
+
+# Projetos em destaque (Coloque os caminhos reais dos seus repos)
+projects:
+  - repo: "devdahmer99/socket_whatsapp" 
+    arm: 0
+    description: "Wrapper WhatsApp Socket."
+    description: "My OSINT Framework"
+  - repo: "devdahmer99/cybersecurity-tools" 
+    arm: 1
+    description: "Custom Go/Python scripts for automated reconnaissance and scanning and my osint framework in python."
+
+# Cores do tema (Mantive o padrão deep space, funciona bem)
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ff4d4d"        # Mudei levemente pra vermelho (Red Team)
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# Métricas para exibir
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Linguagens (Escondendo as que não importam tanto pra vaga técnica)
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Blade"      # Ocultar templates pra focar na lógica
+    - "Makefile"
+  max_display: 6
