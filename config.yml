@@ -48,7 +48,6 @@ projects:
   - repo: "devdahmer99/socket_whatsapp" 
     arm: 0
     description: "Wrapper WhatsApp Socket."
-    description: "My OSINT Framework"
   - repo: "devdahmer99/cybersecurity-tools" 
     arm: 1
     description: "Custom Go/Python scripts for automated reconnaissance and scanning and my osint framework in python."
